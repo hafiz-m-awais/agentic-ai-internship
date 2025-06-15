@@ -23,7 +23,7 @@ This project implements a **Task-Oriented Agentic AI System** as part of the KDD
 
 2. **Clone Repository & Install Requirements**
    ```bash
-   git clone https://github.com/hafiz-m-awais/agentic-ai.git
+   git clone https://github.com/hafiz-m-awais/agentic-ai-internship.git
    cd agentic-ai
    pip install -r requirements.txt
 
